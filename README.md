@@ -1,4 +1,4 @@
-# ASRT EEG Preprocessing & Epoching Pipeline
+# ASRT EEG preprocessing & epoching pipeline
 
 This repository contains a pipeline for processing EEG data collected during an **Alternating Serial Reaction Time (ASRT)** task using **MNE-Python**. The scripts facilitate the transition from raw BrainVision recordings to cleaned, epoched data enriched with behavioral metadata.
 
